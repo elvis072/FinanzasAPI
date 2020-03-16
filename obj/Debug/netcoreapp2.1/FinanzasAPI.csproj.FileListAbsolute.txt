@@ -1,0 +1,15 @@
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\bin\Debug\netcoreapp2.1\FinanzasAPI.deps.json
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\bin\Debug\netcoreapp2.1\FinanzasAPI.runtimeconfig.json
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\bin\Debug\netcoreapp2.1\FinanzasAPI.runtimeconfig.dev.json
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\bin\Debug\netcoreapp2.1\FinanzasAPI.dll
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\bin\Debug\netcoreapp2.1\FinanzasAPI.pdb
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\obj\Debug\netcoreapp2.1\FinanzasAPI.RazorAssemblyInfo.cache
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\obj\Debug\netcoreapp2.1\FinanzasAPI.RazorAssemblyInfo.cs
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\obj\Debug\netcoreapp2.1\FinanzasAPI.AssemblyInfoInputs.cache
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\obj\Debug\netcoreapp2.1\FinanzasAPI.AssemblyInfo.cs
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\obj\Debug\netcoreapp2.1\FinanzasAPI.RazorTargetAssemblyInfo.cache
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\obj\Debug\netcoreapp2.1\FinanzasAPI.dll
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\FinanzasAPI\obj\Debug\netcoreapp2.1\FinanzasAPI.pdb
